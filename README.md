@@ -1,0 +1,1 @@
+A manual implementation of Archipelago for snow•fall. Randomizes characters, stage r functions, rerolling options, and products you can access. Doesn't randomize cube access and you can do the category-free reroll from the start. Win condition is setup as beating node 15 with 3 characters.
