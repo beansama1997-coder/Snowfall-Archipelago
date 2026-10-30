@@ -10,6 +10,8 @@ Manual archipelagos rely on honor system, but nothing mechanically stops you. Yo
 
 Love words giving you a random product is likely to give a banned item. This is considered allowed as long as love words itself is unlocked.
 
+Rod of compliance lacks a category, while cutter flower is marked "product product." Since this doesn't affect functionality, this will remain the case.
+
 When customizing yaml options, it'll sort snowfall as though starting with "m" due to the name. It broke when I tried to rename the apworld, so it'll just have to do.
 
 I tried to remove the example options but couldn't (sorry), so please ignore them.
