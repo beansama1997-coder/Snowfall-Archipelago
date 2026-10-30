@@ -7,3 +7,7 @@ You can take all cubes from the start.
 Manual archipelagos rely on honor system, but nothing mechanically stops you. You also must manually mark node completion and when you win.
 
 Love words giving you a random product is likely to give a banned item. This is considered allowed as long as love words itself is unlocked.
+
+When customizing yaml options, it'll sort snowfall as though starting with "m" due to the name. It broke when I tried to rename the apworld, so it'll just have to do.
+
+There're no customizable options. I tried to remove the example options but couldn't (sorry), but you could manually, in your head, declare that you win with a different condition if you wish.
